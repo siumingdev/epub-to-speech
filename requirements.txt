@@ -1,0 +1,7 @@
+black
+beautifulsoup4
+EbookLib
+ftfy
+isort
+pydub
+google-cloud-texttospeech
